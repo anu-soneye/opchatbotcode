@@ -9,5 +9,5 @@ For now here is a google doc of some notes utilized when testing this code (only
 https://docs.google.com/document/d/1FCta6W_-QHg-zeajSPcMJcrsvSgNHgf0fLXtCmUOqCY/edit?usp=sharing
 
 Information about files:
-- package.json files and Procfile are both for buliding the a container to host on gcloud (intiate text code is under gcloud jobs - runs 8 am every day and chatbotreply is under gcloud services)
+- package.json files and Procfile are both for buliding a container to host on gcloud (intiate text code is under gcloud jobs - runs 8 am every day and chatbotreply is under gcloud services)
 - main code is in index.js for both
